@@ -1,2 +1,4 @@
 # E_sun-financial-product-competition
-It contains about the description and code in the E_sun financial product competition
+## 資料清理與預處理
+這次比賽提供的資料區分成八份資料，故我們將所有資料進行個別處理後才丟入模型，以下以條列式的方式說明處理流程。另外此次處理皆以Ｒ語言作為主要分析工具。
+
